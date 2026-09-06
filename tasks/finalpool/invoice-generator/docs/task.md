@@ -1,11 +1,5 @@
 # Task: invoice-generator
 
 ## Description
-Build an invoice generation system that creates and manages invoices.
+Complete the implementation for invoice-generator
 
-## Features
-- Create professional invoices
-- Add line items and calculations
-- Send invoices to clients
-- Track payment status
-- Generate financial reports

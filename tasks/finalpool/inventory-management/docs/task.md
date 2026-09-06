@@ -1,11 +1,5 @@
 # Task: inventory-management
 
 ## Description
-Build an inventory management system for tracking products and stock levels.
+Complete the implementation for inventory-management
 
-## Features
-- Add, edit, and delete products
-- Track stock levels and low-stock alerts
-- Manage product categories and tags
-- Generate inventory reports
-- Barcode scanning support

@@ -1,5 +1,4 @@
 # Agent System Prompt
 
-You are an AI agent tasked with implementing the inventory-management system.
-
-Create a comprehensive inventory management system for tracking products, stock levels, and orders.
+## General Requirements
+Please complete the implementation for inventory-management in a beautiful way!
